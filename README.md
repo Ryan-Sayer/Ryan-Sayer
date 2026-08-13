@@ -5,6 +5,8 @@ developer tools and distributed infrastructure.
 
 I primarily work with Rust, Go and C#.
 
+[`More information on me`](https://ryansayer.site)
+
 ## Projects
 
 [`strata`](https://github.com/Ryan-Sayer/strata)
